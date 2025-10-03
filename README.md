@@ -3,8 +3,10 @@ The woogle is image  search engine which user use keyword to search for picture.
 
 
 #AUTHENTICATION SYSTEM & FUNCTIONALITIES
->user roles
->upload and search
+
+1.user roles
+
+2.upload and search
 
 FOR ADMIN 
 
