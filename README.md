@@ -10,12 +10,12 @@ The woogle is image  search engine which user use keyword to search for picture.
 
 FOR ADMIN 
 
->Login/Sign up
->Upload Picture
->Delete Picture
+1.Login/Sign up
+2.Upload Picture
+3.Delete Picture
 FOR USER
->Login/Sign up
->search picture use key word
+1.Login/Sign up
+2.search picture use key word
 
 #DATABASE
 >MySQL
